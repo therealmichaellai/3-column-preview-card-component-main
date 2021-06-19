@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-css-flexbox-8iRaelc9V](https://www.frontendmentor.io/solutions/html-css-flexbox-8iRaelc9V)
 - Live Site URL: [https://therealmichaellai.github.io/3-column-preview-card-component-main/](https://therealmichaellai.github.io/3-column-preview-card-component-main/)
 
 ## My process
